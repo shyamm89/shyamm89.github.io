@@ -1,0 +1,20 @@
+
+= Shyam Upadhyay
+:toc: left
+:toc-title: Shyam Upadhyay
+
+[.float-group]
+--
+[.left]
+image::images/profile-picture.jpg[profile-picture,300]
+
+https://github.com/shyamm89[Github] | https://www.linkedin.com/in/shyam-m-upadhyay-22152544/[Linkedin]
+
+Applicaton Integration Architect at Accenture India, Agile evangelist, Deep learning enthusiast  +
+Email: maverickshyam88@gmail.com +
+Phone: +91 8897296827
+
+--
+
+== About Me
+**_a reader, an explorer, a learner, coder..._**
